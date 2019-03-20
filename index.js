@@ -6,9 +6,9 @@ function BoardMember (name, homeState, training){
     console.log("No, I must disagree");
   }
    this.approve = function(){
-    console.log("No, I must disagree");
+    console.log("You can do that!");
   }
-   this.veto = function(){
+   this.doCharity = function(){
     console.log("No, I must disagree");
   }
 }

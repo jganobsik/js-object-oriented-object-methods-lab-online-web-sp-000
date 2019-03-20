@@ -9,6 +9,6 @@ function BoardMember (name, homeState, training){
     console.log("You can do that!");
   }
    this.doCharity = function(){
-    console.log("No, I must disagree");
+    console.log("I like to help people.");
   }
 }
